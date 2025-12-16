@@ -1,0 +1,1 @@
+Mi juego/proyecto final de Unity consistirá en un juego plataformer 2d con estilo retro. En este controlaremos a un monigote rosado que deberá recorrer un amplio mapa en el que podrá encontrar poderes que le facilitaran la exploración.

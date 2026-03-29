@@ -1,0 +1,20 @@
+Avances realizados hasta el momento:
+- Lo mencionado en los avances N°1 y N°2
+- Enemigos creados
+- Los enemigos pueden atacar
+- Existen 2 tipos de enemigos
+  - Blanco: lento y aguanta 3 golpes
+  - Azul: rápido y aguanta 4 golpes
+- Puedes recibir daño
+- Puedes morir
+- Puedes matar a los enemigos
+- Mejoras creadas para el movimiento de la cámara y el fondo
+- Tanto el jugador como los enemigos tienen animación de muerte
+- El jugador tiene animaciones de:
+  - daño
+  - ataque
+  - ataque al caminar
+- Se creo una barra de vida que disminuye conforme el jugador es atacado
+- Se creo un menú de inicio
+- Se creo una pantalla de GameOver
+- El proyecto ha sido terminado y esta listo para presentarse

@@ -1,0 +1,9 @@
+Avances realizados hasta el momento:
+- Lo mencionado en el avance N°1
+- Control de salto programado
+- Fondo creado
+- Tilemap creado
+- La cámara sigue al presonaje
+- El fondo de mueve cuando el personaje se mueve
+- Checkpoint creado
+- Moneda recolectable creada

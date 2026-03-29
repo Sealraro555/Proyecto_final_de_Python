@@ -1,0 +1,5 @@
+Avances realizados hasta el momento:
+- Assets conseguidos
+- Colisones del suelo y el personaje programados
+- Animación inactiva y de caminar creados
+- Controles para moverse programados
